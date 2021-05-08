@@ -1,2 +1,2 @@
-cd /go/src
+cd /go/src/ayame
 ./ayame
